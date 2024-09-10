@@ -1,0 +1,34 @@
+    1  ls
+    2  man ls
+    3  pwd
+    4  whoami
+    5  ecgo
+    6  echo
+    7  echo "hola
+    8  echo "hola"
+    9  echo "hola" 
+   10  echo $HOME
+   11  pwd
+   12  asdasd
+   13  das
+   14  CLEAR
+   15  ls
+   16  ls -l
+   17  ls -la
+   18  man ls
+   19  man man
+   20  pwd
+   21  whoami
+   22  echo
+   23  echo "hola"
+   24  echo $HOME
+   25  ls
+   26  cat README 
+   27  cd repogit/
+   28  ls
+   29  git clone https://github.com/AdrianVielma/Repo_Vielma.git
+   30  ls
+   31  cd Repo_Vielma/
+   32  ls
+   33  history
+   34  history > historial.txt
